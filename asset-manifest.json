@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-card-task/static/css/main.6cbfdaae.css",
+    "main.js": "/user-card-task/static/js/main.fb9462f4.js",
+    "static/js/787.43da7bc4.chunk.js": "/user-card-task/static/js/787.43da7bc4.chunk.js",
+    "index.html": "/user-card-task/index.html",
+    "main.6cbfdaae.css.map": "/user-card-task/static/css/main.6cbfdaae.css.map",
+    "main.fb9462f4.js.map": "/user-card-task/static/js/main.fb9462f4.js.map",
+    "787.43da7bc4.chunk.js.map": "/user-card-task/static/js/787.43da7bc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbfdaae.css",
+    "static/js/main.fb9462f4.js"
+  ]
+}
