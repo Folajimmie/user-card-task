@@ -1,0 +1,31 @@
+.card-section{
+margin: auto;
+width: 50%;
+}
+.card{
+    margin: 2rem 2rem 2rem 0;
+    padding: 1.5rem;
+    width: calc(100%/3);
+    box-shadow: 0 0 28px 4px rgba(0, 0, 0, 0.1);
+    transform: transform .3s ease;
+    cursor: pointer;
+    background-color: white;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.card-title{
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+.card-body{
+    margin: 1rem 0;
+    line-height: 25px;
+}
+.card-body p{
+    margin: 0;
+    font-weight: 500;
+    font-style: italic;
+}
